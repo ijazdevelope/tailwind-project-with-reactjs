@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tailwind-project-with-reactjs/static/css/main.8f0995bb.css",
+    "main.js": "/tailwind-project-with-reactjs/static/js/main.19fbdc04.js",
+    "static/js/787.fb80194e.chunk.js": "/tailwind-project-with-reactjs/static/js/787.fb80194e.chunk.js",
+    "static/media/beach-work.jpg": "/tailwind-project-with-reactjs/static/media/beach-work.54a50544724f0196fb52.jpg",
+    "static/media/logo.svg": "/tailwind-project-with-reactjs/static/media/logo.89a0608df076a1ab78a4af0024ded3d1.svg",
+    "index.html": "/tailwind-project-with-reactjs/index.html",
+    "main.8f0995bb.css.map": "/tailwind-project-with-reactjs/static/css/main.8f0995bb.css.map",
+    "main.19fbdc04.js.map": "/tailwind-project-with-reactjs/static/js/main.19fbdc04.js.map",
+    "787.fb80194e.chunk.js.map": "/tailwind-project-with-reactjs/static/js/787.fb80194e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f0995bb.css",
+    "static/js/main.19fbdc04.js"
+  ]
+}
