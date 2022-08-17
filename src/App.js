@@ -1,7 +1,6 @@
 import './App.css';
 import MyLogo from './images/logo.svg';
 import WorkationLogo from './images/beach-work.jpg';
-import CardsApi from './components/CardsApi';
 import Cards from './components/Cards';
 
 
